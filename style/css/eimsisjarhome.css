@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'San Judas Tadeo';
+    src: url("../../font/SanJudasTadeo.ttf");
+}
+
+@font-face {
+    font-family: 'Bellefair-Regular';
+    src: url("../../font/Bellefair-Regular.ttf");
+}
+
+html,
+body {
+    background-image: url("../../img/bgeimhome.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container h1{
+    font-family: 'San Judas Tadeo';
+    font-size: 55px;
+    color: azure;
+    text-align: center;
+    margin-top:1em;
+}
+
+.container h3{
+    font-family: 'Bellefair-Regular';
+    text-transform: uppercase;
+    color: azure;
+    text-align: center;
+    margin-top:1em;
+    margin-bottom: 1em;
+}
+
+.logo1 {
+ height: 120px;
+}
+.logo2 {
+    height: 120px;
+}
+
+.card{
+    margin-top: 7em;
+}
+
+#btneim{
+background-color: #0F8387;
+font-weight: bold;
+}
+
+#btnsisjar{
+background-color: #60A7B1;
+font-weight: bold;
+}
