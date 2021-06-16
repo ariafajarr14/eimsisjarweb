@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Menyisipkan Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="style/css/eimsisjarhome.css" />
+    <link rel="stylesheet" type="text/css" href="css/eimsisjarhome.css">
     <link rel="stylesheet" href="style/css/bootstrap.min.css" />
 
 
