@@ -130,7 +130,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #578c90;
+  color: #1D636B;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -143,7 +143,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #1D636B;
+  color: white;
 }
 
 @media (min-width: 890px) {
@@ -162,6 +162,7 @@ img::-moz-selection {
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
+    color: #fff;
   }
   #mainNav.navbar-shrink {
     padding-top: 0;

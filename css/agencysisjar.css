@@ -611,8 +611,8 @@ section#contact .section-heading {
 footer {
   padding: 25px 0;
   text-align: center;
-  background-color: #212529;
-  color: #8ab4b3;
+  background-color: #00165C;
+  color: #e9ecef;
 }
 
 footer span.copyright {
@@ -663,7 +663,7 @@ ul#contactus.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background: #902579;
+  background: #8ab4b3;
 }
 
 
